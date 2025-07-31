@@ -1,0 +1,10 @@
+
+{
+  "name": "Espressivo Music App",
+  "short_name": "Espressivo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e1f29",
+  "theme_color": "#6C63FF",
+  "icons": []
+}
